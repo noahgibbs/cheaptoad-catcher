@@ -1,0 +1,193 @@
+--- 
+notice: 
+  session: 
+    data: 
+      _csrf_token: oCT0zutEwO/A9SV46vxRVd261Wr4KMJLtIv49jKAC9Q=
+      session_id: a0dd1c6473abae974d5e5600b5724098
+      user_id: 1
+      flash: {}
+
+    key: ""
+  api_key: 90a7e8ec36c358cd1399b4b3d90b5d09
+  error_message: "RuntimeError: Exception goes here!"
+  error_class: RuntimeError
+  request: 
+    rails_root: /home/angelbob/src/rails/astrino
+    url: http://arch.angelbob.com/game/full
+    params: 
+      action: full
+      controller: game
+  environment: 
+    RG_REST_AUTH_SITE_KEY: 977a30e026fd1157fef987c963e93eb2532b4d8d1ff53bd16a44b06b59a6
+    RG_SMTP_PASSWORD: "[FILTERED]"
+    SHLVL: "2"
+    rack.errors: "#<IO:0xb7d6c560>"
+    PWD: /home/angelbob/src/rails/astrino
+    RG_SITE_PORT: "4444"
+    RG_SMTP_SERVER: mail.speakeasy.net
+    _: /usr/local/bin/ruby
+    rack.session.options: 
+      httponly: "true"
+      domain: ""
+      id: a0dd1c6473abae974d5e5600b5724098
+      path: /
+      expire_after: ""
+      key: _session_id
+    rack.version: 
+    - 0
+    - 1
+    HTTP_HOST: arch.angelbob.com:4444
+    GATEWAY_INTERFACE: CGI/1.2
+    HTTP_REFERER: http://arch.angelbob.com:4444/
+    RG_SITE_URL: http://arch.angelbob.com:4444
+    USER: angelbob
+    action_controller.request.request_parameters: {}
+
+    RG_MAIL_PREFIX: "[The Defense of Astrino] "
+    LESSOPEN: "| /usr/bin/lesspipe %s"
+    TERM: xterm-color
+    HTTP_KEEP_ALIVE: "300"
+    HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    action_controller.request.query_parameters: {}
+
+    SERVER_PROTOCOL: HTTP/1.1
+    rack.url_scheme: http
+    REQUEST_URI: /game/full
+    rack.request.cookie_string: _astrino_session=BAh7CToMdXNlcl9pZGkGOhBfY3NyZl90b2tlbiIxb0NUMHp1dEV3Ty9BOVNWNDZ2eFJWZDI2MVdyNEtNSkx0SXY0OWpLQUM5UT0iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA6D3Nlc3Npb25faWQiJWEwZGQxYzY0NzNhYmFlOTc0ZDVlNTYwMGI1NzI0MDk4--90c199ef55acdc79dc3cf7925886ab3cc921cbaf; auth_token=
+    RG_RAILS_SESSION_SECRET: 8c59734170d7f90638c51d3d9e847d76cae62c262344cb0cfb3a1793af36563fc32ea316ed1acc2a2d9d1662f5c46b8e03b67b031fc2517e4e91fa7699e60a64a9034d72f00f70a2063431bc6a9f245aef5e92c2dd6bbdee1cae653d1d30334a6149b88b
+    HTTP_ACCEPT_ENCODING: gzip,deflate
+    DAEMONS_ARGV: ""
+    action_controller.request.path_parameters: 
+      action: full
+      controller: game
+    RG_JUGGER_GS_SESSION: 4d2c048a6315cde97d51e3b0c82ddabd5d1604909d91078e5b091270b3f44574cda8d0b876bc987a
+    REMOTE_ADDR: 64.81.51.153
+    PATH: /home/angelbob/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+    rack.multiprocess: "false"
+    rack.request: "#<Rack::Request:0xb726a194>"
+    SSH_CONNECTION: 64.81.51.153 49210 64.81.51.165 22
+    RG_RAILS_ENVIRONMENT: development
+    LESSCLOSE: /usr/bin/lesspipe %s %s
+    SERVER_NAME: arch.angelbob.com
+    RG_SMTP_USER: angelbob
+    RG_JUGGERNAUT_PORT: "5001"
+    rack.session: 
+      _csrf_token: oCT0zutEwO/A9SV46vxRVd261Wr4KMJLtIv49jKAC9Q=
+      session_id: a0dd1c6473abae974d5e5600b5724098
+      user_id: 1
+      flash: {}
+
+    HOME: /home/angelbob
+    RG_JUGGERNAUT_SERVER: arch.angelbob.com
+    rack.input: "#<StringIO:0xb70e06d4>"
+    RG_SITE_ADDRESS: arch.angelbob.com
+    LS_COLORS: "no=00:fi=00:di=01;34:ln=01;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.svgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:"
+    REQUEST_METHOD: GET
+    RUBYOPT: rubygems
+    SSH_CLIENT: 64.81.51.153 49210 22
+    SCRIPT_NAME: ""
+    RG_SITE_NAME: The Defense of Astrino
+    MAIL: /var/mail/angelbob
+    SERVER_PORT: "4444"
+    rack.run_once: "false"
+    LANG: en_US.UTF-8
+    HTTP_CONNECTION: keep-alive
+    action_controller.rescue.response: "#<ActionController::Response:0xb726b1fc>"
+    SHELL: /bin/bash
+    RG_ADMIN_EMAIL: noah_gibbs@yahoo.com
+    SSH_TTY: /dev/pts/1
+    HTTP_ACCEPT_LANGUAGE: en-us,en;q=0.5
+    rack.request.cookie_hash: 
+      auth_token: ""
+      _astrino_session: BAh7CToMdXNlcl9pZGkGOhBfY3NyZl90b2tlbiIxb0NUMHp1dEV3Ty9BOVNWNDZ2eFJWZDI2MVdyNEtNSkx0SXY0OWpLQUM5UT0iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA6D3Nlc3Npb25faWQiJWEwZGQxYzY0NzNhYmFlOTc0ZDVlNTYwMGI1NzI0MDk4--90c199ef55acdc79dc3cf7925886ab3cc921cbaf
+    HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2
+    REQUEST_PATH: /game/full
+    QUERY_STRING: ""
+    rack.request.query_hash: {}
+
+    LOGNAME: angelbob
+    SERVER_SOFTWARE: Mongrel 1.1.5
+    RG_SMTP_DOMAIN: arch.angelbob.com
+    RG_ADMIN_NAME: admin
+    HTTP_ACCEPT_CHARSET: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+    action_controller.rescue.request: "#<ActionController::Request:0xb726b210>"
+    RG_SMTP_PORT: "25"
+    PATH_INFO: /game/full
+    RAILS_ENV: development
+    HTTP_VERSION: HTTP/1.1
+    HTTP_COOKIE: _astrino_session=BAh7CToMdXNlcl9pZGkGOhBfY3NyZl90b2tlbiIxb0NUMHp1dEV3Ty9BOVNWNDZ2eFJWZDI2MVdyNEtNSkx0SXY0OWpLQUM5UT0iCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhhc2h7AAY6CkB1c2VkewA6D3Nlc3Npb25faWQiJWEwZGQxYzY0NzNhYmFlOTc0ZDVlNTYwMGI1NzI0MDk4--90c199ef55acdc79dc3cf7925886ab3cc921cbaf; auth_token=
+    rack.multithread: "false"
+    HISTCONTROL: ignoreboth
+    rack.request.query_string: ""
+  backtrace: 
+  - "[RAILS_ROOT]/app/controllers/game_controller.rb:17:in `full'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `send'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `perform_action_without_filters'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'"
+  - "[GEM_ROOT]/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'"
+  - /usr/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+  - "[GEM_ROOT]/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `send'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process_without_filters'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:9:in `cache'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:28:in `call'"
+  - "[GEM_ROOT]/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'"
+  - "[RAILS_ROOT]/app/middleware/juggernaut_session_cookie_middleware.rb:15:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'"
+  - "[GEM_ROOT]/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'"
+  - "[GEM_ROOT]/gems/rails-2.3.4/lib/rails/rack/static.rb:31:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'"
+  - "[GEM_ROOT]/gems/rails-2.3.4/lib/rails/rack/log_tailer.rb:17:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'"
+  - "[GEM_ROOT]/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'"
+  - "[GEM_ROOT]/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'"
+  - "[GEM_ROOT]/gems/rails-2.3.4/lib/commands/server.rb:111"
+  - /usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+  - /usr/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+  - "[RAILS_ROOT]/script/server:3"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/application.rb:176:in `load'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/application.rb:257:in `start'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons.rb:139:in `run'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'"
+  - "[GEM_ROOT]/gems/daemons-1.0.10/lib/daemons.rb:138:in `run'"
+  - rails_control.rb:4
