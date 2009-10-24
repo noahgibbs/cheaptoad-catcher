@@ -18,7 +18,7 @@ class CtMigrate < ActiveRecord::Migration
   end
 
   def self.down
-    drop_table "notices"
     remove_index("notices", "backtrace_digest")
+    drop_table "notices"
   end
 end
