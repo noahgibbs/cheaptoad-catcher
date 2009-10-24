@@ -5,6 +5,7 @@ class CtMigrate < ActiveRecord::Migration
       t.string :error_message, :limit => 200
       t.string :error_class, :limit => 100
       t.string :backtrace_digest, :limit => 256
+      t.integer :count
       t.text :session
       t.text :request
       t.text :environment
