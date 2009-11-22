@@ -2,3 +2,6 @@ A very simple error catcher using the CheapToad gemplugin.
 
 This is barely more than a fresh-made Rails app.  It exists primarily
 to let me test CheapToad.
+
+There's also a .gems file for Heroku deployment.  Other than that, there's
+nothing special you have to do to deploy on Heroku.
